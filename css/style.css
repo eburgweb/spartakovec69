@@ -433,6 +433,10 @@ iframe {
   margin-bottom: 50px;
 }
 
+#embedim--snow {
+  z-index: -1;
+}
+
 @media (max-height: 900px) {
   .header {
     position: absolute;
@@ -596,3 +600,4 @@ iframe {
     padding-left: 20px;
   }
 }
+
