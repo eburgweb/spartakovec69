@@ -434,7 +434,7 @@ iframe {
 }
 
 #embedim--snow {
-  z-index: -1;
+  z-index: -1 !important;
 }
 
 @media (max-height: 900px) {
@@ -600,4 +600,5 @@ iframe {
     padding-left: 20px;
   }
 }
+
 
